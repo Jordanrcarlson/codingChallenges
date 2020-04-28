@@ -1,0 +1,126 @@
+//Submitted by: Jordan Carlson
+//Student Number: V00714886
+
+
+Linked
+======
+
+10
+
+java Performance linked 10
+ linkedmap over 10 iterations.
+[1554520578783 linked] put loop count: 45
+[1554520578783 linked] get loop count: 100
+
+100
+
+java Performance linked 100
+ linkedmap over 100 iterations.
+[1554520933099 linked] put loop count: 4950
+[1554520933099 linked] get loop count: 10000
+
+
+1,000
+
+java Performance linked 1000
+ linkedmap over 1000 iterations.
+[1554520960300 linked] put loop count: 499500
+[1554520960300 linked] get loop count: 1000000
+
+
+10,000
+
+java Performance linked 10000
+ linkedmap over 10000 iterations.
+[1554521064788 linked] put loop count: 49995000
+[1554521064788 linked] get loop count: 100000000
+
+
+100,000
+
+java Performance linked 100000
+ linkedmap over 100000 iterations.
+[1554521096854 linked] put loop count: 704982704
+[1554521096854 linked] get loop count: 1409940346
+
+
+300,000
+
+java Performance linked 300000
+ linkedmap over 300000 iterations.
+[1554521182886 linked] put loop count: 2049470575
+[1554521182886 linked] get loop count: -200054484
+
+
+
+Binary Search Tree
+==================
+
+10
+
+java Performance tree 10
+ bst   map over 10 iterations.
+[1554522954302 bst   ] put loop count: 23
+[1554522954302 bst   ] get loop count: 27
+
+
+100
+
+java Performance tree 100
+ bst   map over 100 iterations.
+[1554522978147 bst   ] put loop count: 710
+[1554522978147 bst   ] get loop count: 826
+
+
+1,000
+
+java Performance tree 1000
+ bst   map over 1000 iterations.
+[1554523003334 bst   ] put loop count: 11696
+[1554523003334 bst   ] get loop count: 13924
+
+
+10,000
+
+java Performance tree 10000
+ bst   map over 10000 iterations.
+[1554523027930 bst   ] put loop count: 151737
+[1554523027930 bst   ] get loop count: 172350
+
+
+100,000
+
+java Performance tree 100000
+ bst   map over 100000 iterations.
+[1554523241428 bst   ] put loop count: 1941265
+[1554523241428 bst   ] get loop count: 2141707
+
+
+300,000
+
+java Performance tree 300000
+ bst   map over 300000 iterations.
+[1554523384174 bst   ] put loop count: 6716891
+[1554523384174 bst   ] get loop count: 7313252
+
+
+1,000,0000
+
+java Performance tree 1000000
+ bst   map over 1000000 iterations.
+[1554523428441 bst   ] put loop count: 24049739
+[1554523428441 bst   ] get loop count: 26047624
+
+
+
+Questions
+=========
+
+1) Approximately how long did it take your computer to run the test for 300,000 iterations on the linked implementation?
+
+	Approximately 15 minutes
+
+2) What is the maximum value you can run the binary search tree implementation for and have it finish in less than a few seconds?
+
+	~500,000 	
+ 
